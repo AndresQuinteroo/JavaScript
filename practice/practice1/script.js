@@ -1,0 +1,1 @@
+document.querySelector(".firstP").textContent = "Hello this is me adding JS and html and css"
